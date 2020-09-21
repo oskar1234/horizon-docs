@@ -12,6 +12,7 @@ Windows
 ^^^^^^^
 
 Download and run the MSI installer from `GitHub releases <https://github.com/horizon-eda/horizon/releases>`_.
+If you are working on a mashine with in integrated GPU and you are not having a schematic view force the startup with your dedicated GPU.
 
 Linux
 ^^^^^
